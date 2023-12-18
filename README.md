@@ -7,6 +7,7 @@ In this teaching unit, the Edurob should be used to explore and compare various 
 ## Project Overview
 
 Our objective is to investigate different kinematic models, utilizing pre-defined paths encoded in a CSV file. By using the same predefined path with different kinematics it is possible to compare and contrast the performance of various kinematic approaches
+![](.\Pathplanning_edurob\pathplaner\img\robot_path.png)
 
 ## Getting Started
 [Homepage](https://www.imsl.fh-dortmund.de/mobile-roboter/edurob/)
